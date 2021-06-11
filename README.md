@@ -22,3 +22,5 @@ Django version 3.2.3, using settings 'memory_storage.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
 ```
+
+- 감정추론
